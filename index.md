@@ -1,13 +1,18 @@
-    # Your Name
+---
+layout: default
+title: Home
+---
     
-    Welcome to my personal website!
+# Your Name
     
-    ## About Me
-    Write a short bio here.
+Welcome to my personal website!
     
-    ## Projects
-    - Project 1
-    - Project 2
+## About Me
+Write a short bio here.
     
-    ## Contact
-    Your email or LinkedIn
+## Projects
+- Project 1
+- Project 2
+    
+## Contact
+Your email or LinkedIn
